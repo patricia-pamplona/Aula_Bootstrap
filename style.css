@@ -1,0 +1,61 @@
+body{
+    font: 20px arial, sans-serif;
+}
+
+.navbar{
+    background-color: white;
+}
+
+.container-apresentacao{
+    background-color: #53ADBA;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+
+.containerpp{
+    background-color: gray;
+}
+
+.proj-pedagogico{
+    background-color: #2EB96F;
+}
+
+.noticias{
+    background-color: #6E2684;
+    color: white;
+}
+
+.parceiros{
+    background-color: grey;
+}
+
+.metodologia{
+    background-color: #7f4d8f;
+    color: black;
+}
+
+.linktitle{
+    color: #7B7A7B;
+}
+
+.bg-footer{
+    background-color: darkslategrey;
+    color: whitesmoke;
+}
+
+.grid-item {
+    display: inline-block;
+    color: whitesmoke;
+    padding: 2rem 3rem;
+    vertical-align: top;
+}
+
+.rodape {
+    border-top: 5px solid yellowgreen;
+    background-color: darkslategrey;
+    padding: 0;
+}
+
